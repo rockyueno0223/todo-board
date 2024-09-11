@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-board/static/css/main.f8de3fe5.css",
+    "main.js": "/todo-board/static/js/main.e11d4f89.js",
+    "static/js/453.c09da02e.chunk.js": "/todo-board/static/js/453.c09da02e.chunk.js",
+    "static/media/bg-cork.png": "/todo-board/static/media/bg-cork.eb2f8873dc07df777936.png",
+    "index.html": "/todo-board/index.html",
+    "main.f8de3fe5.css.map": "/todo-board/static/css/main.f8de3fe5.css.map",
+    "main.e11d4f89.js.map": "/todo-board/static/js/main.e11d4f89.js.map",
+    "453.c09da02e.chunk.js.map": "/todo-board/static/js/453.c09da02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8de3fe5.css",
+    "static/js/main.e11d4f89.js"
+  ]
+}
